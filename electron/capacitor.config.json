@@ -1,7 +1,0 @@
-{
-  "appId": "pro.koehler.relationship",
-  "appName": "Relationship App",
-  "bundledWebRuntime": false,
-  "windowsAndroidStudioPath": "F:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe",
-  "webDir": "dist"
-}
